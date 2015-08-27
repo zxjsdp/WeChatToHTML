@@ -6,8 +6,10 @@ and user content folder, generate **WeChat app style HTML5 files**.
 
 Why there is no source code here?
 ---------------------------------
-Since WeChat is a commercial software, I am not yet sure if there will be
-any **legal risk** if I release the code which uses it's user data.
+1. Since WeChat is a commercial software, I am not yet sure if there will be
+   any **legal risk** if I release the code.
+
+2. The API is not mature and simple enough for daily use.
 
 So I decided to remove all the source code. I will consider releasing the
 code in the future. ^_^
