@@ -145,3 +145,24 @@ u_keyword_list = [
     u"转圈", u"磕头", u"回头", u"跳绳", u"投降", u"激动",
     u"乱舞", u"献吻", u"左太极", u"右太极"
 ]
+
+
+u_code_list = [
+    u"/::)", u"/::~", u"/::B", u"/::|", u"/:8-)", u"/::<", u"/::$",
+    u"/::X", u"/::Z", u"/::'(", u"/::-|", u"/::@", u"/::P", u"/::D",
+    u"/::O", u"/::(", u"/::+", u"/:–b", u"/::Q", u"/::T", u"/:,@P",
+    u"/:,@-D", u"/::d", u"/:,@o", u"/::g", u"/:|-)", u"/::!", u"/::L",
+    u"/::>", u"/::,@", u"/:,@f", u"/::-S", u"/:?", u"/:,@x", u"/:,@@",
+    u"/::8", u"/:,@!", u"/:!!!", u"/:xx", u"/:bye", u"/:wipe", u"/:dig",
+    u"/:handclap", u"/:&-(", u"/:B-)", u"/:<@", u"/:@>", u"/::-O",
+    u"/:>-|", u"/:P-(", u"/::'|", u"/:X-)", u"/::*", u"/:@x", u"/:8*",
+    u"/:pd", u"/:<W>", u"/:beer", u"/:basketb", u"/:oo", u"/:coffee",
+    u"/:eat", u"/:pig", u"/:rose", u"/:fade", u"/:showlove", u"/:heart",
+    u"/:break", u"/:cake", u"/:li", u"/:bome", u"/:kn", u"/:footb",
+    u"/:ladybug", u"/:shit", u"/:moon", u"/:sun", u"/:gift", u"/:hug",
+    u"/:strong", u"/:weak", u"/:share", u"/:v", u"/:@)", u"/:jj",
+    u"/:@@", u"/:bad", u"/:lvu", u"/:no", u"/:ok", u"/:love", u"/:<L>",
+    u"/:jump", u"/:shake", u"/:<O>", u"/:circle", u"/:kotow", u"/:turn",
+    u"/:skip", u"/:oY", u"/:#-0", u"/:hiphot", u"/:kiss", u"/:<&",
+    u"/:&>"
+]
